@@ -11,6 +11,12 @@ Modern Angular 19-based enterprise content management portal designed to manage 
 
 ---
 
+<p align="center">
+  <img src="./assets/banner/enterprise-cms-adminportal-banne.png" width="100%" alt="Enterprise CMS Admin Portal Banner"/>
+</p>
+
+---
+
 ## Overview
 
 Enterprise CMS Admin Portal is a modern administration platform built to simplify content publishing, website management, event administration, subscriber management, and editorial workflows through a secure and user-friendly interface.
