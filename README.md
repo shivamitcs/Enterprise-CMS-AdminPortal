@@ -12,7 +12,7 @@ Modern Angular 19-based enterprise content management portal designed to manage 
 ---
 
 <p align="center">
-  <img src="./assets/banner/enterprise-cms-adminportal-banne.png" width="100%" alt="Enterprise CMS Admin Portal Banner"/>
+  <img src="./assets/banner/enterprise-cms-adminportal-banner.png" width="100%" alt="Enterprise CMS Admin Portal Banner"/>
 </p>
 
 ---
@@ -181,7 +181,7 @@ The solution improves administrative efficiency, streamlines content workflows, 
        alt="Enterprise CMS Admin Portal System Architecture"/>
 </p>
 
-## Architecture
+---
 
 ### Presentation Layer
 
@@ -367,7 +367,9 @@ Manage events, schedules, listings, and publishing workflows from a centralized 
 ```text
 assets/
 ├── architecture/
+│   └── enterprise-cms-adminportal-system-architecture.png
 ├── banner/
+│   └── enterprise-cms-adminportal-banner.png
 └── screenshots/
     ├── Dashboad.png
     ├── Darshan-List.png
