@@ -146,6 +146,56 @@ The platform enables administrators to efficiently manage digital content while 
 
 ---
 
+## Platform Modules
+
+### Dashboard
+
+<p align="center">
+  <img src="./assets/screenshots/Dashboad.png" width="100%" alt="Dashboard"/>
+</p>
+
+---
+
+### Darshan Management
+
+<p align="center">
+  <img src="./assets/screenshots/Darshan-List.png" width="100%" alt="Darshan Management"/>
+</p>
+
+---
+
+### Blog Management
+
+<p align="center">
+  <img src="./assets/screenshots/Blogs.png" width="100%" alt="Blog Management"/>
+</p>
+
+---
+
+### Blog Editor
+
+<p align="center">
+  <img src="./assets/screenshots/Add_blog_form.png" width="100%" alt="Blog Editor"/>
+</p>
+
+---
+
+### Comment Moderation
+
+<p align="center">
+  <img src="./assets/screenshots/Blog_Comment.png" width="100%" alt="Comment Moderation"/>
+</p>
+
+---
+
+### Event Management
+
+<p align="center">
+  <img src="./assets/screenshots/Event_list.png" width="100%" alt="Event Management"/>
+</p>
+
+---
+
 ## Key Capabilities
 
 * Enterprise Content Management
