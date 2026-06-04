@@ -167,6 +167,14 @@ The solution improves administrative efficiency, streamlines content workflows, 
 
 ---
 
+## System Architecture
+
+<p align="center">
+  <img src="./assets/architecture/enterprise-cms-adminportal-system-architecture.png"
+       width="100%"
+       alt="Enterprise CMS Admin Portal System Architecture"/>
+</p>
+
 ## Architecture
 
 ### Presentation Layer
