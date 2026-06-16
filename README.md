@@ -228,7 +228,7 @@ The solution improves administrative efficiency, streamlines content workflows, 
 * Authentication
 * Content Services
 * Media Services
-* Event Services
+* Event Services 
 * Comment Moderation
 
 ### Integration Layer
