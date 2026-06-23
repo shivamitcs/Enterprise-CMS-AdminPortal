@@ -5,7 +5,7 @@
 ![CMS](https://img.shields.io/badge/CMS-Enterprise-success)
 ![Architecture](https://img.shields.io/badge/Architecture-Modern-black)
 ![Authentication](https://img.shields.io/badge/Auth-Secure-green)
-![Status](https://img.shields.io/badge/Status-Production-success)
+![Status](https://img.shields.io/badge/Status-Production-success) 
 
 Modern Angular 19-based enterprise content management portal designed to manage website content, blogs, events, subscribers, media assets, and multilingual information through a centralized administrative interface.
 
