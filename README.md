@@ -13,7 +13,7 @@ Modern Angular 19-based enterprise content management portal designed to manage 
 
 <p align="center">
   <img src="./assets/banner/enterprise-cms-adminportal-banner.png" width="100%" alt="Enterprise CMS Admin Portal Banner"/>
-</p>
+</p> 
 
 ---
 
